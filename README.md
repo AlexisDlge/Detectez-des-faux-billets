@@ -1,7 +1,7 @@
 # Detectez-des-faux-billets
 Projet 10 de la formation de data analyst de OpenClassrooms
 
-**Scénario**
+<img width="614" alt="IMG_Scenario" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/6c949932-3da9-4faa-a408-3d3da4ec7247">
 
 Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
 

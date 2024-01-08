@@ -15,6 +15,6 @@ Le client souhaite que vous travailliez directement depuis ses locaux sous la re
 
 Après avoir lu en détail le cahier des charges, vous vous préparez à vous rendre à l’ONCFM pour prendre vos nouvelles fonctions. Vous notez tout de même un post-it qui se trouve sur le coin de votre bureau, laissé par un de vos collègues :
 
-<img width="614" alt="Note_PostIt" src=""> 
+<img width="614" alt="Note_PostIt" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/08c5c865-3599-409a-8df5-97de1547d41e"> 
 
 Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent vers les bureaux de l’ONCFM pour commencer votre mission.

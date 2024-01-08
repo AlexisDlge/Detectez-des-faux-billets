@@ -21,4 +21,25 @@ Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent ver
 
 <img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
 
+  Votre code en R ou Python contenant : \
+        ● l’ensemble des traitements et des tests effectués ; \
+        ● l’application finale.
+
+  Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prénom”, le livrable du projet nommé comme suit : Nom_Prénom_n° du livrable_nom du livrable_date de démarrage du projet. Cela donnera : 
+  Nom_Prénom_1_code_mmaaaa. Par exemple, le livrable peut être nommé comme suit : Dupont_Jean_1_code_012023.
+
 <img width="614" alt="IMG_Soutenance" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/a1a8bf0e-898d-4fa4-808b-091d870eb595">
+
+Durant la présentation orale, votre mentor jouera le rôle de Marie, la responsable du projet à l’ONCFM à qui vous présentez vos résultats : 
+
+● Présentation des livrables (20 minutes) \
+      ➛ Présentation de l’ensemble de votre cheminement, des traitements et analyses réalisés en amont, des différentes pistes explorées pour la construction de l’algorithme, et du modèle final retenu (15 minutes) ; \
+      ➛ Test de l’algorithme en direct avec un jeu de données qui vous sera fourni pendant la soutenance, ayant la même forme que le jeu suivant : [FICHIER billets_production.csv](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/billets_production.csv) (5 minutes).
+      
+● Discussion (5 minutes) \
+      ➛ Échange de questions/réponses : l’évaluateur pourra revenir sur certains points pour vous questionner sur vos choix.\
+      ➛ L’évaluateur vous fera un retour sur votre prestation en soutenance. 
+      
+● Debriefing (5 minutes) \
+      ➛ À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Marie pour vous permettre de débriefer ensemble. 
+
